@@ -3,3 +3,5 @@ First edit
 These are changes to add the first feature.
 
 Feature one required more changes.
+
+Then we had to address comments.
