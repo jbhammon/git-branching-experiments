@@ -1,3 +1,5 @@
 First edit
 
-These are changes to add the first feature
+These are changes to add the first feature.
+
+Feature one required more changes.
